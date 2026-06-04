@@ -52,3 +52,11 @@ python envs/test_simple_spread.py
 ```
 
 程序会打印每个 agent 的 observation shape、action space 和 reward。
+
+运行 MPE 环境检查工具：
+
+```powershell
+python envs/inspect_mpe_envs.py
+```
+
+程序会检查 `simple_spread_v3`、`simple_adversary_v3`、`simple_tag_v3`，并将结果写入 `notes/02_mpe_env_report.md`。
