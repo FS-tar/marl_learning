@@ -1,0 +1,9 @@
+pettingzoo[mpe]
+mpe2
+pygame
+numpy
+pandas
+matplotlib
+pytest
+pyyaml
+supersuit
